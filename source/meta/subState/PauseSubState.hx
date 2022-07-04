@@ -148,11 +148,11 @@ class PauseSubState extends MusicBeatSubState
 				case "Resume":
 					close();
 				case "Restart Song":
-					fromCharting = false;
+					PlayState.fromCharting = false;
 					Main.switchState(this, new PlayState());
 				case "Exit to menu":
 					PlayState.resetMusic();
-					fromCharting = false;
+					PlayState.fromCharting = false;
 					Application.current.window.title = "Friday Night Funkin': Feline Fiasco!";
 
 					if (PlayState.isStoryMode)
