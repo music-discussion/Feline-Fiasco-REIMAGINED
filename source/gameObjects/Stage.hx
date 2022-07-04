@@ -560,7 +560,7 @@ class Stage extends FlxTypedGroup<FlxBasic>
 				stage.scrollFactor.set(1, 1);
 				add(stage);
 				
-				congrats = new FlxText(1200, 0, 0, "CONGRATULATIONS!", 48);
+				congrats = new FlxText(750, 0, 0, "CONGRATULATIONS!", 48);
 				congrats.color = 0xFFFFD886;
 				congrats.borderStyle = FlxTextBorderStyle.OUTLINE;
 				congrats.borderColor = 0xFF965C3A;
