@@ -1,4 +1,4 @@
-# [Friday Night Funkin' Feline Fiasco!](https://github.com/Yoshubs/FunkinForever)
+# Friday Night Funkin' Feline Fiasco!
 A brand new mod for Friday Night Funkin'!
 ----------------------------------------------
 
