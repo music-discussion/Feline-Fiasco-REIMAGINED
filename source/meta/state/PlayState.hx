@@ -1825,7 +1825,7 @@ class PlayState extends MusicBeatState
 			if (SONG.song.toLowerCase() == 'rivallife')
 				Main.switchState(this, new ImpressiveState());
 			else if (SONG.song.toLowerCase() == 'secret')
-				Main.switchState(this, new Finaltate());
+				Main.switchState(this, new FinalState());
 			else
 				Main.switchState(this, new FreeplayState());
 			

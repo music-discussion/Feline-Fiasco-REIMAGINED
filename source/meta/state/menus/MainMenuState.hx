@@ -58,7 +58,7 @@ class MainMenuState extends MusicBeatState
 		'Play the songs in order with dialogue to check out!   '
 	];
 
-	var ffrVersion:String = '1.0'
+	var ffrVersion:String = '1.0';
 
 	// the create 'state'
 	override function create()
