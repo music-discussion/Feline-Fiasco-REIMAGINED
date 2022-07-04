@@ -23,7 +23,7 @@ class StoryMenuState extends MusicBeatState
 	var scoreText:FlxText;
 	var curDifficulty:Int = 1;
 
-	public static var weekUnlocked:Array<Bool> = [true, false, false];
+	public static var weekUnlocked:Array<Bool> = [true, true, false];
 
 	var weekCharacters:Array<Dynamic> = [
 		['kady', 'bf', 'gf'],
@@ -49,9 +49,6 @@ class StoryMenuState extends MusicBeatState
 	override function create()
 	{
 		super.create();
-		
-		if (FlxG.save.data.weekCompleted)
-			weekUnlocked = [true, true, false];
 			
 		if (FlxG.save.data.gangUnlock && FlxG.save.data.balamUnlock && FlxG.save.data.kitUnlock && FlxG.save.data.goyUnlock && FlxG.save.data.fightUnlock)
 			FlxG.save.data.amazingAchievement = true;
