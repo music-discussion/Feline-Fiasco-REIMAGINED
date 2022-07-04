@@ -94,7 +94,7 @@ class StoryMenuState extends MusicBeatState
 		grpLocks = new FlxTypedGroup<FlxSprite>();
 		add(grpLocks);
 
-		if (!FlxG.save.data.amazingAchievement)
+		if (FlxG.save.data.amazingAchievement)
 			value -= 1;
 
 		for (i in 0...Main.gameWeeks.length - value)//we dont want secret to show in story mode. We also don't want RivalLife to show up when its not meant to. -Discussions
@@ -340,10 +340,10 @@ class StoryMenuState extends MusicBeatState
 	{
 		curWeek += change;
 
-		if (curWeek >= Main.gameWeeks.length - 1)
+		if (curWeek >= Main.gameWeeks.length - value)
 			curWeek = 0;
 		if (curWeek < 0)
-			curWeek = Main.gameWeeks.length - 2;
+			curWeek = Main.gameWeeks.length - (value + 1);
 
 		var bullShit:Int = 0;
 

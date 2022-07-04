@@ -161,7 +161,7 @@ class Init extends FlxState
 		'ACCEPT' => [[FlxKey.SPACE, Z, FlxKey.ENTER], 4],
 		'BACK' => [[FlxKey.BACKSPACE, X, FlxKey.ESCAPE], 5],
 		'PAUSE' => [[FlxKey.ENTER, P], 6],
-		'RESET' => [[FlxKey.R, R], 13],
+		'RESET' => [[R, Q], 9],
 	];
 	
 	public static var uiControls:Map<String, Dynamic> = [

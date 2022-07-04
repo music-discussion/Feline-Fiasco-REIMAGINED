@@ -33,7 +33,7 @@ class Discord
 			details: "",
 			state: null,
 			largeImageKey: 'largeimagelmao',
-			largeImageText: "Feline Fiasco"
+			largeImageText: "Feline Fiasco Reimagined"
 		});
 	}
 
@@ -60,7 +60,7 @@ class Discord
 			details: details,
 			state: state,
 			largeImageKey: 'largeimagelmao',
-			largeImageText: "Feline Fiasco",
+			largeImageText: "Feline Fiasco Reimagined",
 			smallImageKey: "thecatlogolool",
 			// Obtained times are in milliseconds so they are divided so Discord can use it
 			startTimestamp: Std.int(startTimestamp / 1000),

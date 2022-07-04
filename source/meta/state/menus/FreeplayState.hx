@@ -219,7 +219,8 @@ class FreeplayState extends MusicBeatState
 			+ "\nKeunsilsu Unlock: " + FlxG.save.data.kitUnlock
 			+ "\nGoyangi Unlock: " + FlxG.save.data.goyUnlock
 			+ "\nAnti-Fight Unlock: " + FlxG.save.data.fightUnlock
-			+ "\nSecret Achievement? " + FlxG.save.data.amazingAchievement);
+			+ "\nSecret Achievement? " + FlxG.save.data.amazingAchievement
+			+ "\nSecret FC to unlock Final? " + FlxG.save.data.secretFC);
 
 		FlxTween.color(bg, 0.35, bg.color, mainColor);
 
@@ -258,6 +259,7 @@ class FreeplayState extends MusicBeatState
 
 		if (accepted)
 		{
+			if (songs[curSelected].songName.toLowerCase() != "rivallife" && FlxG.save.data.amazingAchievement) {
 			var poop:String = Highscore.formatSong(songs[curSelected].songName.toLowerCase(),
 				CoolUtil.difficultyArray.indexOf(existingDifficulties[curSelected][curDifficulty]));
 
@@ -277,6 +279,9 @@ class FreeplayState extends MusicBeatState
 			threadActive = false;
 
 			Main.switchState(this, new PlayState());
+			} else {
+				FlxG.sound.play(Paths.soundRandom('missnote', 1, 3), FlxG.random.float(0.1, 0.2));
+			}
 		}
 
 		// Adhere the position of all the things (I'm sorry it was just so ugly before I had to fix it Shubs)
@@ -383,7 +388,10 @@ class FreeplayState extends MusicBeatState
 		//trace("curSelected: " + curSelected);
 
 		changeDiff();
-		changeSongPlaying();
+		if (songs[curSelected].songName.toLowerCase() != "rivallife")
+			changeSongPlaying();
+		else 
+			playSpecificSong("unknown");
 	}
 
 	function changeSongPlaying()
@@ -434,7 +442,11 @@ class FreeplayState extends MusicBeatState
 		songThread.sendMessage(curSelected);
 	}
 
-	var playingSongs:Array<FlxSound> = [];
+	function playSpecificSong(name:String)
+	{
+		var inst:Sound = Paths.inst(name);
+		FlxG.sound.playMusic(inst);
+	}
 }
 
 class SongMetadata
