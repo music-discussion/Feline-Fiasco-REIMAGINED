@@ -47,7 +47,7 @@ THE CREDITS:
 ----------------------------------------------
 SHOUTOUTS TO:
 ----------------------------------------------
-***Saruky*** - Made the Cassette Girl chromatic scale, which i modified to make Kady's chromatic scale>
+***Saruky*** - Made the Cassette Girl chromatic scale, which i modified to make Kady's chromatic scale.
 
 ***The Friday Night Moddin' Discord Community*** - the server that got me into fnf modding, yayyyy :D
 
