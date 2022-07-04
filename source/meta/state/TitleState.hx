@@ -39,6 +39,8 @@ using StringTools;
 	I genuinely fucking hate this code no offense ninjamuffin I just dont like it and I don't know why or how I should rewrite it
 	
 	"lmao coward" -Tucker 2022
+
+	:| -Discussions 2022
 **/
 class TitleState extends MusicBeatState
 {
@@ -88,10 +90,14 @@ class TitleState extends MusicBeatState
 			
 			if (FlxG.save.data.amazingAchievement == null)
 				FlxG.save.data.amazingAchievement = false;
+
+			if (FlxG.save.data.secretFC == null)
+				FlxG.save.data.secretFC = false;
 				
 			#if debug
 			FlxG.save.data.weekCompleted = true;
 			FlxG.save.data.amazingAchievement = true;
+			FlxG.save.data.secretFC = true;
 			#end
 		}
 

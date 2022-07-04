@@ -22,6 +22,7 @@ import meta.data.font.Alphabet;
 import meta.state.menus.*;
 import openfl.Assets;
 import lime.utils.Assets;
+import lime.app.Application;
 
 using StringTools;
 /**
@@ -46,11 +47,12 @@ class CreditState extends MusicBeatState
 	
 	//dynamic array my beloved
 	//how 2 work the array: name, credit for, text name, border name
+	//Discussions here. We are going to add Links okay?
 	var peopleArray:Array<Dynamic> = [
-		["TuckerTheTucker", "Creator", FlxColor.fromRGB(0, 165, 19), FlxColor.fromRGB(26, 89, 0)],
-		["DEAD SKULLXX", "Voice of Kadycat", FlxColor.WHITE, FlxColor.fromRGB(252, 113, 228)],
-		["xeno", "Musician for RivalLife", FlxColor.fromRGB(255, 0, 51), FlxColor.fromRGB(100, 0, 0)],
-		["Disscussions", "Bugfixes and help with Kady's notes", FlxColor.fromRGB(113, 254, 114), FlxColor.fromRGB(97, 145, 0)]
+		["TuckerTheTucker", "Creator", FlxColor.fromRGB(0, 165, 19), FlxColor.fromRGB(26, 89, 0), "https://twitter.com/TuckerTheTucker"],
+		["DEAD SKULLXX", "Voice of Kadycat", FlxColor.WHITE, FlxColor.fromRGB(252, 113, 228), "https://www.youtube.com/channel/UCWxNOohS72ICFXJni8Imk_A"],
+		["xeno", "Musician for RivalLife", FlxColor.fromRGB(255, 0, 51), FlxColor.fromRGB(100, 0, 0), "https://youtube.com/channel/UCg72scHADGQ1RnQIHfrVMbw"],
+		["Disscussions", "Bugfixes and help with Kady's notes", FlxColor.fromRGB(113, 254, 114), FlxColor.fromRGB(97, 145, 0), "https://www.youtube.com/channel/UCAawAIWR5XfJE6T0JdYpzzg"]
 	];
 	
 	override function create() 
@@ -177,6 +179,14 @@ class CreditState extends MusicBeatState
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			Main.switchState(this, new MainMenuState());
 		}
+
+		if (controls.ACCEPT)
+		{
+			if(peopleArray[curSelected][4] != null)
+			{
+				openUrl(peopleArray[curSelected][4]);
+			}
+		}
 		
 		super.update(elapsed);
 	}
@@ -213,5 +223,13 @@ class CreditState extends MusicBeatState
 		
 		icon.animation.curAnim.curFrame = curSelected;
 	}
-	
+
+	function openUrl(url:String)
+	{
+		#if linux
+			Sys.command('/usr/bin/xdg-open', [url, "&"]);
+		#else
+			FlxG.openURL(url);
+		#end
+	}
 }

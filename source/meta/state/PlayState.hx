@@ -68,6 +68,9 @@ class PlayState extends MusicBeatState
 	public static var gf:Character;
 	public static var boyfriend:Boyfriend;
 
+	//disallows getting achievements if you ever came from Charting State.
+	public static var fromCharting:Bool = false;
+
 	public static var assetModifier:String = 'base';
 	public static var changeableSkin:String = 'default';
 
@@ -635,6 +638,7 @@ class PlayState extends MusicBeatState
 				if ((FlxG.keys.justPressed.SEVEN) && (!startingSong))
 				{
 					resetMusic();
+					fromCharting = true;
 					if (FlxG.keys.pressed.SHIFT)
 						Main.switchState(this, new ChartingState());
 					else
@@ -1769,8 +1773,11 @@ class PlayState extends MusicBeatState
 		canPause = false;
 		songMusic.volume = 0;
 		vocals.volume = 0;
+
+		if(fromCharting)
+			trace("achievements disabled. from charting state.");
 		
-		if (!autoPlayOn)
+		if (!autoPlayOn && !fromCharting)
 		{
 			if (storyDifficulty == 2 && misses == 0)
 			{
@@ -1791,29 +1798,34 @@ class PlayState extends MusicBeatState
 					case 'rivallife':
 						FlxG.save.data.fightUnlock = true;
 				}
+
+				if (allSicks && curSong.toLowerCase() == "secret")
+					FlxG.save.data.secretFC = true;
 			}
 		}
 		
 		if (FlxG.save.data.gangUnlock && FlxG.save.data.balamUnlock && FlxG.save.data.kitUnlock && FlxG.save.data.goyUnlock && FlxG.save.data.fightUnlock)
 			FlxG.save.data.amazingAchievement = true;
 			
-		if (!autoPlayOn)
+		if (!autoPlayOn && !fromCharting)
 			if (SONG.validScore)
 				Highscore.saveScore(SONG.song, songScore, storyDifficulty);
 		else
 			trace('Autoplay was on in the song, Score saving is disabled');
+
+		fromCharting = false;
 			
 		if (SONG.song.toLowerCase() == 'rivallife')
 			Main.switchState(this, new ImpressiveState());
 		if (SONG.song.toLowerCase() == 'secret')
-			Main.switchState(this, new ThankYouState());
+			Main.switchState(this, new FinalState());
 
 		if (!isStoryMode)
 		{
 			if (SONG.song.toLowerCase() == 'rivallife')
 				Main.switchState(this, new ImpressiveState());
 			else if (SONG.song.toLowerCase() == 'secret')
-				Main.switchState(this, new ThankYouState());
+				Main.switchState(this, new Finaltate());
 			else
 				Main.switchState(this, new FreeplayState());
 			

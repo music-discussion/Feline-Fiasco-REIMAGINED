@@ -58,6 +58,8 @@ class MainMenuState extends MusicBeatState
 		'Play the songs in order with dialogue to check out!   '
 	];
 
+	var ffrVersion:String = '1.0'
+
 	// the create 'state'
 	override function create()
 	{
@@ -136,7 +138,7 @@ class MainMenuState extends MusicBeatState
 		add(promoChars);
 		
 		// from the base game lol
-		versionShit = new FlxText(35, FlxG.height - 50, 0, "FF v1.0.0", 12);
+		versionShit = new FlxText(35, FlxG.height - 50, 0, "FF v1.0.0 | FFR v" + ffrVersion, 12);
 		versionShit.color = FlxColor.WHITE;
 		versionShit.borderStyle = FlxTextBorderStyle.OUTLINE;
 		versionShit.borderColor = FlxColor.BLACK;

@@ -45,6 +45,8 @@ class StoryMenuState extends MusicBeatState
 	var sprDifficulty:FlxSprite;
 	var leftArrow:FlxSprite;
 	var rightArrow:FlxSprite;
+	
+	var value:Int = 2;
 
 	override function create()
 	{
@@ -92,7 +94,10 @@ class StoryMenuState extends MusicBeatState
 		grpLocks = new FlxTypedGroup<FlxSprite>();
 		add(grpLocks);
 
-		for (i in 0...Main.gameWeeks.length - 1)//we dont want secret to show in story mode
+		if (!FlxG.save.data.amazingAchievement)
+			value -= 1;
+
+		for (i in 0...Main.gameWeeks.length - value)//we dont want secret to show in story mode. We also don't want RivalLife to show up when its not meant to. -Discussions
 		{
 			var weekThing:MenuItem = new MenuItem(0, yellowBG.y + yellowBG.height + 10, i);
 			weekThing.y += ((weekThing.height + 20) * i);
