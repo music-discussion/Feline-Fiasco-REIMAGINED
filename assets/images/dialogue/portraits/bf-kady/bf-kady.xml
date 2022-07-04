@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-kady.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-normal0000" x="5" y="5" width="362" height="589"/>
+	<SubTexture name="bf-smile0000" x="5" y="599" width="376" height="589"/>
+	<SubTexture name="bf-uh0000" x="5" y="1193" width="354" height="589"/>
+</TextureAtlas>

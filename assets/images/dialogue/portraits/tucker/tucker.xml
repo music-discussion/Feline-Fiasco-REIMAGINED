@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tucker.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tucker0000" x="5" y="5" width="220" height="379" frameX="0" frameY="0" frameWidth="225" frameHeight="379"/>
+	<SubTexture name="tucker0001" x="5" y="5" width="220" height="379" frameX="0" frameY="0" frameWidth="225" frameHeight="379"/>
+	<SubTexture name="tucker0002" x="230" y="5" width="220" height="379" frameX="-4" frameY="0" frameWidth="225" frameHeight="379"/>
+	<SubTexture name="tucker0003" x="230" y="5" width="220" height="379" frameX="-4" frameY="0" frameWidth="225" frameHeight="379"/>
+	<SubTexture name="tucker0004" x="5" y="389" width="220" height="379" frameX="-5" frameY="0" frameWidth="225" frameHeight="379"/>
+	<SubTexture name="tucker0005" x="5" y="389" width="220" height="379" frameX="-5" frameY="0" frameWidth="225" frameHeight="379"/>
+</TextureAtlas>

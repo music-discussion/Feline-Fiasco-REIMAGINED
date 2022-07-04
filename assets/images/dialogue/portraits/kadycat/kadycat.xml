@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kadycat.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happycat-normal0000" x="5" y="5" width="366" height="589"/>
+	<SubTexture name="happycat-open0000" x="376" y="5" width="366" height="589"/>
+	<SubTexture name="happycat-smile0000" x="5" y="599" width="368" height="589"/>
+	<SubTexture name="kadycat-hide0000" x="378" y="599" width="371" height="589"/>
+	<SubTexture name="kadycat-normal0000" x="5" y="1193" width="366" height="589"/>
+	<SubTexture name="kadycat-open0000" x="376" y="1193" width="362" height="588"/>
+</TextureAtlas>

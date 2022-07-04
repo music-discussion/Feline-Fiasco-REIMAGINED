@@ -1,0 +1,4 @@
+cheer 0 0
+sad -60 -12
+danceLeft 0 0
+danceRight 0 0

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="apple.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="apple-happy0000" x="5" y="5" width="257" height="497"/>
+	<SubTexture name="apple-normal0000" x="267" y="5" width="254" height="494"/>
+	<SubTexture name="apple-shock0000" x="526" y="5" width="266" height="494"/>
+</TextureAtlas>

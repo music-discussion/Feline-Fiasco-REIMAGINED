@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grassgotouch-windy.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stage0000" x="0" y="0" width="1307" height="734" frameX="-5" frameY="0" frameWidth="1327" frameHeight="734"/>
+	<SubTexture name="stage0001" x="0" y="734" width="1327" height="734"/>
+	<SubTexture name="stage0002" x="0" y="1468" width="1316" height="734" frameX="-2" frameY="0" frameWidth="1327" frameHeight="734"/>
+</TextureAtlas>

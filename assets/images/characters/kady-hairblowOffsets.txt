@@ -1,0 +1,6 @@
+idle 0 0
+idlePost 0 0
+singUP 14 48
+singDOWN 4 -46
+singLEFT -2 -8
+singRIGHT 14 -14

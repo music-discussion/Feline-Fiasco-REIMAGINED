@@ -1,0 +1,11 @@
+{
+    "name": "gf-kady",
+    "expressions": {
+        "normal": "gf-normal",
+        "cheer": "gf-cheer",
+        "shock": "gf-shock"
+    },
+    "position": "right",
+
+    "sounds": ["GF_1", "GF_2", "GF_3", "GF_4"]
+}

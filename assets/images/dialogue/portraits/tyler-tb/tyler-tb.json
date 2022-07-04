@@ -1,0 +1,9 @@
+{
+    "name": "tyler-tb",
+    "expressions": {
+        "normal": "tyler0"
+    },
+    "position": "left",
+
+    "sounds": ["TYLER_1", "TYLER_2", "TYLER_3", "TYLER_4"]
+}

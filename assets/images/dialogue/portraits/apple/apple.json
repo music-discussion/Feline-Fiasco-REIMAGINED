@@ -1,0 +1,11 @@
+{
+    "name": "apple",
+    "expressions": {
+        "normal": "apple-normal",
+        "smile": "apple-happy",
+        "shock": "apple-shock"
+    },
+    "position": "left",
+
+    "sounds": ["APPLE_1", "APPLE_2", "APPLE_3", "APPLE_4"]
+}

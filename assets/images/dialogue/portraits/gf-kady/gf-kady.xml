@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-kady.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf-cheer0000" x="5" y="5" width="323" height="491"/>
+	<SubTexture name="gf-normal0000" x="333" y="5" width="285" height="490"/>
+	<SubTexture name="gf-shock0000" x="623" y="5" width="280" height="492"/>
+</TextureAtlas>

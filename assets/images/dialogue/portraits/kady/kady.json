@@ -1,0 +1,13 @@
+{
+    "name": "kady",
+    "expressions": {
+        "normal": "kady-normal",
+        "sus": "kady-confused",
+        "nervous": "kady-nervous",
+	"shock": "kady-shock",
+        "mad": "kady-mad"
+    },
+    "position": "left",
+
+    "sounds": ["KADY_1", "KADY_2", "KADY_3", "KADY_4"]
+}

@@ -1,0 +1,109 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "bf-kady",
+            "expression": "normal",
+            "text": "Beep."
+        },
+        {
+            "portrait": "gf-kady",
+            "expression": "shock",
+            "text": "Uh, Boyfriend...? I see strong winds\ncoming through..."
+        },
+        {
+            "portrait": "bf-kady",
+            "expression": "uh",
+            "text": "Beep?"
+        },
+        {
+            "portrait": "jace",
+            "expression": "concern",
+            "text": "Ah jeebers, Kady hates wind! C'mon\nman let's go!"
+        },
+        {
+            "portrait": "apple",
+            "expression": "normal",
+            "text": "Awww, Already??"
+        },
+        {
+            "portrait": "tyler",
+            "expression": "open",
+            "text": "Yes, c'mon Kady lets get out of here..."
+        },
+        {
+            "expression": "concern",
+            "text": "...Kady?"
+        },
+        {
+            "portrait": "kady",
+            "expression": "mad",
+            "text": "...No..."
+        },
+        {
+            "portrait": "apple",
+            "expression": "shock",
+            "text": "Huh??"
+        },
+        {
+	    "boxState": "yell",
+	    "portrait": "kady",
+            "expression": "mad",
+            "text": "...You think you can just beat me and\nrun away like that?!"
+        },
+        {
+	    "boxState": "normal",
+            "portrait": "jace",
+            "expression": "concern",
+            "text": "Oh, no..."
+        },
+        {
+	    "boxState": "yell",
+	    "portrait": "kady",
+            "expression": "mad",
+            "text": "Listen here, buddy...We're gonna stay\nand keep trying 'til i beat your ass!"
+        },
+	{
+            "text": "Even if it takes all night to do so!"
+        },
+        {
+	    "boxState": "normal",
+            "portrait": "tyler",
+            "expression": "concern",
+            "text": "Kady, we don't have time, let's get\nout of here!"
+        },
+        {
+	    "boxState": "yell",
+	    "portrait": "kady",
+            "expression": "mad",
+            "text": "FUCK YOU!! YOU STAY HERE UNTIL\nIM THROUGH WITH YOU!"
+        },
+        {
+	    "boxState": "normal",
+            "portrait": "gf-kady",
+            "expression": "shock",
+            "text": "Oh no..."
+        },
+        {
+            "portrait": "jace",
+            "expression": "normal",
+            "text": "Welp, all we can do now is wait."
+        },
+        {
+            "portrait": "apple",
+            "expression": "smile",
+            "text": "Ooooh! i love this song! it's a catchy tune!"
+        },
+        {
+            "portrait": "tyler",
+            "expression": "normal",
+            "text": "Might as well stay and watch."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "mad",
+            "text": "Girlfriend...Change it to Track 2!"
+        }
+    ]
+}

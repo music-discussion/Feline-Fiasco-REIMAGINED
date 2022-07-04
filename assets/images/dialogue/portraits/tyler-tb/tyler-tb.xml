@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tyler-tb.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tyler0000" x="5" y="5" width="363" height="401" frameX="0" frameY="-1" frameWidth="363" frameHeight="402"/>
+	<SubTexture name="tyler0001" x="5" y="5" width="363" height="401" frameX="0" frameY="-1" frameWidth="363" frameHeight="402"/>
+	<SubTexture name="tyler0002" x="373" y="5" width="355" height="402" frameX="-5" frameY="0" frameWidth="363" frameHeight="402"/>
+	<SubTexture name="tyler0003" x="373" y="5" width="355" height="402" frameX="-5" frameY="0" frameWidth="363" frameHeight="402"/>
+	<SubTexture name="tyler0004" x="5" y="412" width="355" height="402" frameX="-6" frameY="0" frameWidth="363" frameHeight="402"/>
+	<SubTexture name="tyler0005" x="5" y="412" width="355" height="402" frameX="-6" frameY="0" frameWidth="363" frameHeight="402"/>
+</TextureAtlas>

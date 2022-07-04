@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tyler.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tyler-concern0000" x="5" y="5" width="311" height="579"/>
+	<SubTexture name="tyler-normal0000" x="321" y="5" width="311" height="579"/>
+	<SubTexture name="tyler-open0000" x="637" y="5" width="311" height="579"/>
+</TextureAtlas>

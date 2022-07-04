@@ -1,0 +1,183 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "kadycat",
+            "expression": "hide",
+            "text": "P..Please don't look at me."
+        },
+        {
+            "portrait": "tyler",
+            "expression": "open",
+            "text": "Ayo Kady chill! How long have you\nbeen a cat?"
+        },
+        {
+            "portrait": "kadycat",
+            "expression": "hide",
+            "text": "M..My whole life..."
+        },
+        {
+            "text": "I..I didnt want y'all to see b..because..."
+        },
+        {
+            "text": "I d..didnt want to be known as a neko!"
+        },
+        {
+	    "expression": "open",
+            "text": "I wanna be known as a human!\nwith human friends!"
+        },
+        {
+            "text": "I didnt want y'all to leave me..."
+        },
+        {
+            "portrait": "jace",
+            "expression": "normal",
+            "text": "...Leave you?? Kady, that's the\ncoolest thing i ever seen!"
+        },
+        {
+            "portrait": "jace",
+            "expression": "open",
+            "text": "Like seriously! those things are like,\nnon existent yet!"
+        },
+        {
+            "portrait": "apple",
+            "expression": "smile",
+            "text": "Yeah!! You're even cuter now that\nyour ears and tail are showing!"
+        },
+        {
+            "portrait": "tyler",
+            "expression": "normal",
+            "text": "Uhuh! Plus, i have a tail that no one\nsees except for me and my friend."
+        },
+        {
+            "portrait": "kadycat",
+	    "expression": "open",
+            "text": "...Y..You think i'm...cuter as a neko?"
+        },
+        {
+            "portrait": "jace",
+	    "expression": "open",
+            "text": "Yeah! We will never leave you."
+        },
+        {
+            "portrait": "apple",
+	    "expression": "smile",
+            "text": "Thaaats Right! Friendship 'til the end!"
+        },
+        {
+            "portrait": "jace",
+	    "expression": "open",
+            "text": "She's right! We'll always have your\nback, no matter what!"
+        },
+        {
+            "portrait": "tyler",
+	    "expression": "open",
+            "text": "And that's what friends are for!\n(that sounded cheesy)"
+        },
+        {
+            "portrait": "kadycat",
+	    "expression": "happy",
+            "text": "..."
+        },
+        {
+	    "expression": "smile",
+            "text": "Thank you so much guys! Y'all are\namazing!"
+        },
+        {
+            "portrait": "apple",
+	    "expression": "smile",
+            "text": "No problem Girl!"
+        },
+        {
+            "portrait": "jace",
+	    "expression": "normal",
+            "text": "Well we should probably go find your\nhat and mask now."
+        },
+        {
+	    "expression": "open",
+            "text": "The suns coming up anyways so we\nshould head home after."
+        },
+        {
+            "portrait": "kadycat",
+	    "expression": "smile",
+            "text": "Oh right, let's do that!"
+        },
+        {
+            "portrait": "bf-kady",
+	    "expression": "uh",
+            "text": "Beep?"
+        },
+        {
+            "portrait": "kadycat",
+	    "expression": "happy",
+            "text": "Oh! Before i go..."
+        },
+	{
+	    "expression": "aww",
+            "text": "Boyfriend, i'm sorry for getting mad\nlike that..."
+        },
+        {
+            "portrait": "bf-kady",
+	    "expression": "smile",
+            "text": "Beep!"
+        },
+        {
+            "portrait": "gf-kady",
+	    "expression": "cheer",
+            "text": "He accepts your apology!"
+        },
+        {
+            "portrait": "kadycat",
+	    "expression": "happy",
+            "text": "If you wanna head home, go ahead."
+        },
+	{
+	    "expression": "smile",
+            "text": "I won't stop you this time."
+        },
+        {
+            "portrait": "bf-kady",
+	    "expression": "normal",
+            "text": "Baap?"
+        },
+        {
+            "portrait": "gf-kady",
+	    "expression": "normal",
+            "text": "He wants you to do one more battle\nbefore you go..."
+        },
+        {
+            "portrait": "kadycat",
+	    "expression": "happy",
+            "text": "One more? You got it!"
+        },
+	{
+            "text": "I have the perfect track for this too!\nTrack 4 please!"
+        },
+        {
+            "portrait": "tyler",
+	    "expression": "open",
+            "text": "All's well that ends well, Right guys?"
+        },
+        {
+            "portrait": "apple",
+	    "expression": "normal",
+            "text": "Should we try to find her hat and mask\nwhile she's doing that?"
+        },
+        {
+            "portrait": "jace",
+	    "expression": "normal",
+            "text": "Nah, let's stay and watch. We'll get it\nlater."
+        },
+        {
+            "portrait": "apple",
+	    "expression": "smile",
+            "text": "Oki!"
+        },
+        {
+            "portrait": "tyler",
+	    "expression": "normal",
+            "text": "Gotcha."
+        }
+    ]
+}

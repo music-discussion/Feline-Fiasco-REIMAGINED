@@ -1,0 +1,273 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "kady",
+            "expression": "normal",
+            "text": "...And that's how i got stuck in South\nKorea for a couple months when i\nwas 5."
+        },
+        {
+            "portrait": "jace",
+            "expression": "normal",
+            "text": "Woah, thats interesting!"
+        },
+        {
+            "portrait": "apple",
+            "expression": "shocked",
+            "text": "Ohmigosh! How could they?? that's so\nscary!"
+        },
+        {
+            "portrait": "tyler",
+            "expression": "open",
+            "text": "And that's why you always trust\nyour parents!"
+        },
+        {
+            "portrait": "kady",
+            "expression": "normal",
+            "text": "Thanks guys..."
+        },
+        {
+            "expression": "nervous",
+            "text": "I dunno what i would do without y'all."
+        },
+        {
+	    "portrait": "bf-kady",
+            "expression": "normal",
+            "text": "Beep?"
+        },
+        {
+	    "boxState": "yell",
+	    "portrait": "kady",
+            "expression": "shock",
+            "text": "Huh?! who..."
+        },
+        {
+	    "boxState": "normal",
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "Oh, hey."
+        },
+        {
+	    "portrait": "jace",
+            "expression": "open",
+            "text": "Haha, scaredy cat."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "nervous",
+            "text": "Shut up! No im not!"
+        },
+        {
+	    "portrait": "apple",
+            "expression": "normal",
+            "text": "Kaaady...Don't lie to us!"
+        },
+        {
+	    "portrait": "tyler",
+            "expression": "open",
+            "text": "Hey, i know you!"
+        },
+        {
+            "text": "You're that kid that battled my friend\nthe other day!"
+        },
+        {
+	    "portrait": "bf-kady",
+            "expression": "smile",
+            "text": "Beep."
+        },
+        {
+	    "portrait": "gf-kady",
+            "expression": "normal",
+            "text": "Hihi, I'm here."
+        },
+        {
+            "expression": "cheer",
+            "text": "My name's Girlfriend, and this is my\nboyfriend..."
+        },
+        {
+            "expression": "normal",
+            "text": "...uh...Boyfriend!"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "Well uh, nice to meet y'all i guess."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "sus",
+            "text": "...So what is he saying?"
+        },
+        {
+	    "portrait": "gf-kady",
+            "expression": "shock",
+            "text": "Oh, he's just speaking boyfriegian."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "sus",
+            "text": "..."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "nervous",
+            "text": "Is that even a language?"
+        },
+        {
+	    "portrait": "jace",
+            "expression": "concern",
+            "text": "I dunno"
+        },
+        {
+	    "portrait": "apple",
+            "expression": "normal",
+            "text": "Oh, probably!"
+        },
+        {
+	    "portrait": "tyler",
+            "expression": "normal",
+            "text": "i think so."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "Sooo what did he say?"
+        },
+        {
+	    "portrait": "gf-kady",
+            "expression": "normal",
+            "text": "He wants to rap battle with you is all."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "shock",
+            "text": "Rap Battle?!"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "nervous",
+            "text": "Listen, dude. I dont know how to rap."
+        },
+        {
+	    "portrait": "gf-kady",
+            "expression": "shock",
+            "text": "All you gotta do is move with the notes.\nit's simple."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "sus",
+            "text": "Move...with the...notes?"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "Sorry, but i'm not interested. Good night."
+        },
+        {
+	    "portrait": "jace",
+            "expression": "concern",
+            "text": "Aw cmon, Kady. you're making the\nlittle guy sad."
+        },
+        {
+	    "portrait": "bf-kady",
+            "expression": "uh",
+            "text": "Beep...?"
+        },
+        {
+	    "portrait": "apple",
+            "expression": "smile",
+            "text": "Yeahh! cmon, Kady. Lemme see what\nyou got!"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "nervous",
+            "text": "Well, uh..."
+        },
+        {
+	    "portrait": "jace",
+            "expression": "open",
+            "text": "Please?"
+        },
+        {
+	    "portrait": "apple",
+            "expression": "normal",
+            "text": "Pretty Pleeeeease??"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "nervous",
+            "text": "..."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "Fine. I'll do it."
+        },
+        {
+	    "portrait": "apple",
+            "expression": "smile",
+            "text": "YEAHHHH! THANK CHU SO MUCH KAAADY!"
+        },
+        {
+	    "portrait": "jace",
+            "expression": "normal",
+            "text": "Hecc yeah! that's what im talking about!"
+        },
+        {
+	    "portrait": "tyler",
+            "expression": "concern",
+            "text": "Careful now, Kady..."
+        },
+        {
+            "text": "That kid has unmatched power and\npotential!"
+        },
+        {
+            "text": "He CAN and WILL destroy you!"
+        },
+	{
+            "text": "my friend is STILL suffering after\nwhat you did to him, man!"
+        },
+	{
+	    "portrait": "bf-kady",
+            "expression": "uh",
+            "text": "Beep?"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "I'll try to wear him out. It IS 3am\nafter all."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "Girlfriend, put this CD in your boombox!"
+        },
+        {
+	    "portrait": "gf-kady",
+            "expression": "normal",
+            "text": "'Techno Beats to relax to'...?"
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "It was a gift in my vacation to South\nKorea."
+        },
+        {
+	    "portrait": "kady",
+            "expression": "normal",
+            "text": "now then..."
+        },
+        {
+            "expression": "sus",
+            "text": "bring it on."
+        },
+        {
+            "text": "..."
+        },
+        {
+            "expression": "nervous",
+            "text": "(i have a bad feeling about this...)"
+        }
+    ]
+}

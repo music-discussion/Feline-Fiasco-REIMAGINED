@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kady idle instance 10000" x="5" y="5" width="462" height="598" frameX="0" frameY="-15" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10001" x="5" y="5" width="462" height="598" frameX="0" frameY="-15" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10002" x="472" y="5" width="476" height="603" frameX="-6" frameY="-10" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10003" x="472" y="5" width="476" height="603" frameX="-6" frameY="-10" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10004" x="5" y="613" width="432" height="608" frameX="-12" frameY="-5" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10005" x="5" y="613" width="432" height="608" frameX="-12" frameY="-5" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10006" x="442" y="613" width="441" height="612" frameX="-12" frameY="-1" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10007" x="442" y="613" width="441" height="612" frameX="-12" frameY="-1" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10008" x="5" y="1230" width="441" height="613" frameX="-12" frameY="0" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10009" x="5" y="1230" width="441" height="613" frameX="-12" frameY="0" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10010" x="5" y="1230" width="441" height="613" frameX="-12" frameY="0" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10011" x="5" y="1230" width="441" height="613" frameX="-12" frameY="0" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10012" x="5" y="1230" width="441" height="613" frameX="-12" frameY="0" frameWidth="483" frameHeight="613"/>
+	<SubTexture name="kady idle instance 10013" x="5" y="1230" width="441" height="613" frameX="-12" frameY="0" frameWidth="483" frameHeight="613"/>
+</TextureAtlas>

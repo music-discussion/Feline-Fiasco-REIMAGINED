@@ -1,0 +1,14 @@
+{
+    "name": "kadycat",
+    "expressions": {
+        "normal": "kadycat-normal",
+        "open": "kadycat-open",
+        "hide": "kadycat-hide",
+	"happy": "happycat-normal",
+        "smile": "happycat-open",
+ 	"aww": "happycat-smile"
+    },
+    "position": "left",
+
+    "sounds": ["KADYCAT_1", "KADYCAT_2", "KADYCAT_3", "KADYCAT_4"]
+}

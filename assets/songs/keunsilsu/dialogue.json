@@ -1,0 +1,64 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+ 	    "boxState": "yell",
+            "portrait": "kadycat",
+            "expression": "normal",
+            "text": "AH! MY MASK! MY HAT!!"
+        },
+        {
+ 	    "boxState": "normal",
+            "portrait": "bf-kady",
+            "expression": "uh",
+            "text": "B...Beep??"
+        },
+        {
+            "portrait": "gf-kady",
+            "expression": "shock",
+            "text": "A Neko??"
+        },
+        {
+            "portrait": "jace",
+            "expression": "concern",
+            "text": "You're a cat??"
+        },
+        {
+            "portrait": "apple",
+            "expression": "shock",
+            "text": "Oh my god!! Really?!!"
+        },
+        {
+            "portrait": "tyler",
+            "expression": "open",
+            "text": "Now this is more like it!"
+        },
+        {
+            "expression": "normal",
+            "text": "let's get some music in this...Feline Fiasco!"
+        },
+        {
+            "portrait": "jace",
+            "expression": "concern",
+            "text": "..."
+        },
+        {
+            "text": "Why'd you say it like that?"
+        },
+        {
+            "portrait": "tyler",
+            "expression": "concern",
+            "text": "No reason."
+        },
+        {
+            "expression": "open",
+            "text": "Ayo Girlfriend. Play Track 3!"
+        },
+        {
+            "portrait": "gf-kady",
+            "expression": "shock",
+            "text": "O..Okay..."
+        }
+    ]
+}

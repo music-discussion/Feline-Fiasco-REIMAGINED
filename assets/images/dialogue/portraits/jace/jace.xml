@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jace.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jace-concern0000" x="5" y="5" width="298" height="617"/>
+	<SubTexture name="jace-normal0000" x="308" y="5" width="298" height="617"/>
+	<SubTexture name="jace-open0000" x="611" y="5" width="298" height="617"/>
+</TextureAtlas>

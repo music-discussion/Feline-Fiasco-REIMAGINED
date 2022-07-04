@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="citylights.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lights10000" x="0" y="0" width="1280" height="730"/>
+	<SubTexture name="lights20000" x="0" y="730" width="1280" height="730"/>
+	<SubTexture name="lights30000" x="0" y="1460" width="1280" height="730"/>
+	<SubTexture name="lights40000" x="0" y="2190" width="1280" height="730"/>
+	<SubTexture name="lights50000" x="0" y="2920" width="1280" height="730"/>
+</TextureAtlas>

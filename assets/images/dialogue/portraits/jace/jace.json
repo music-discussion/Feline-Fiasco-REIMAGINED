@@ -1,0 +1,11 @@
+{
+    "name": "jace",
+    "expressions": {
+        "normal": "jace-normal",
+        "open": "jace-open",
+        "concern": "jace-concern"
+    },
+    "position": "left",
+
+    "sounds": ["JACE_1", "JACE_2", "JACE_3", "JACE_4"]
+}

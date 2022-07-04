@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tucker-playable.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TB HEY!!0000" x="5" y="5" width="272" height="379" frameX="-2" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0001" x="5" y="5" width="272" height="379" frameX="-2" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0002" x="282" y="5" width="273" height="379" frameX="0" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0003" x="282" y="5" width="273" height="379" frameX="0" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0004" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0005" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0006" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0007" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0008" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0009" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0010" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0011" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0012" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="TB HEY!!0013" x="560" y="5" width="260" height="379" frameX="-12" frameY="0" frameWidth="274" frameHeight="379"/>
+	<SubTexture name="tb idle0000" x="825" y="5" width="260" height="374" frameX="0" frameY="-5" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0001" x="825" y="5" width="260" height="374" frameX="0" frameY="-5" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0002" x="1090" y="5" width="254" height="374" frameX="-1" frameY="-5" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0003" x="1090" y="5" width="254" height="374" frameX="-1" frameY="-5" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0004" x="1349" y="5" width="255" height="379" frameX="-3" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0005" x="1349" y="5" width="255" height="379" frameX="-3" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0006" x="1609" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0007" x="1609" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0008" x="1873" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0009" x="1873" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0010" x="1873" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0011" x="1873" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0012" x="1873" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb idle0013" x="1873" y="5" width="259" height="379" frameX="-2" frameY="0" frameWidth="261" frameHeight="379"/>
+	<SubTexture name="tb miss down0000" x="5" y="796" width="227" height="363" frameX="0" frameY="-7" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb miss down0001" x="2137" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0002" x="2358" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0003" x="2579" y="5" width="220" height="369" frameX="-8" frameY="-2" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0004" x="2804" y="5" width="220" height="369" frameX="-8" frameY="-2" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0005" x="2358" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0006" x="3029" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0007" x="2137" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0008" x="2358" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0009" x="3029" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0010" x="2137" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0011" x="2358" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0012" x="3029" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss down0013" x="2137" y="5" width="216" height="371" frameX="-10" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="tb miss left0000" x="3250" y="5" width="248" height="379"/>
+	<SubTexture name="tb miss left0001" x="3503" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0002" x="3747" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0003" x="5" y="389" width="240" height="379" frameX="-6" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0004" x="250" y="389" width="240" height="379" frameX="-6" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0005" x="3747" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0006" x="495" y="389" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0007" x="3503" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0008" x="3747" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0009" x="495" y="389" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0010" x="3503" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0011" x="3747" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0012" x="495" y="389" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss left0013" x="3503" y="5" width="239" height="379" frameX="-8" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb miss right0000" x="739" y="389" width="244" height="380" frameX="-16" frameY="-1" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0001" x="988" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0002" x="1255" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0003" x="1522" y="389" width="262" height="382" frameX="-2" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0004" x="1789" y="389" width="262" height="382" frameX="-2" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0005" x="1255" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0006" x="2056" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0007" x="988" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0008" x="1255" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0009" x="2056" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0010" x="988" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0011" x="1255" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0012" x="2056" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss right0013" x="988" y="389" width="262" height="382" frameX="0" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb miss up0000" x="2323" y="389" width="257" height="402" frameX="-9" frameY="0" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0001" x="2585" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0002" x="2864" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0003" x="3143" y="389" width="272" height="399" frameX="-1" frameY="-4" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0004" x="3420" y="389" width="272" height="399" frameX="-1" frameY="-4" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0005" x="2864" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0006" x="3697" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0007" x="2585" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0008" x="2864" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0009" x="3697" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0010" x="2585" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0011" x="2864" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0012" x="3697" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb miss up0013" x="2585" y="389" width="274" height="397" frameX="0" frameY="-6" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb pose down0000" x="5" y="796" width="227" height="363" frameX="0" frameY="-11" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0001" x="5" y="796" width="227" height="363" frameX="0" frameY="-11" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0002" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0003" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0004" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0005" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0006" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0007" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0008" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0009" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0010" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0011" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0012" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose down0013" x="237" y="796" width="219" height="374" frameX="-4" frameY="0" frameWidth="227" frameHeight="374"/>
+	<SubTexture name="tb pose left0000" x="3250" y="5" width="248" height="379"/>
+	<SubTexture name="tb pose left0001" x="3250" y="5" width="248" height="379"/>
+	<SubTexture name="tb pose left0002" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0003" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0004" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0005" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0006" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0007" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0008" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0009" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0010" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0011" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0012" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose left0013" x="461" y="796" width="245" height="379" frameX="-3" frameY="0" frameWidth="248" frameHeight="379"/>
+	<SubTexture name="tb pose right0000" x="739" y="389" width="244" height="380" frameX="-1" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb pose right0001" x="739" y="389" width="244" height="380" frameX="-1" frameY="0" frameWidth="264" frameHeight="382"/>
+	<SubTexture name="tb pose right0002" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0003" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0004" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0005" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0006" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0007" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0008" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0009" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0010" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0011" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0012" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose right0013" x="711" y="796" width="241" height="380" frameX="0" frameY="0" frameWidth="245" frameHeight="380"/>
+	<SubTexture name="tb pose up0000" x="2323" y="389" width="257" height="402" frameX="-4" frameY="0" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb pose up0001" x="2323" y="389" width="257" height="402" frameX="-4" frameY="0" frameWidth="274" frameHeight="403"/>
+	<SubTexture name="tb pose up0002" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0003" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0004" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0005" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0006" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0007" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0008" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0009" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0010" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0011" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0012" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tb pose up0013" x="957" y="796" width="264" height="397" frameX="0" frameY="-5" frameWidth="264" frameHeight="402"/>
+	<SubTexture name="tucker death confirm0000" x="1226" y="796" width="540" height="305"/>
+	<SubTexture name="tucker death confirm0001" x="1226" y="796" width="540" height="305"/>
+	<SubTexture name="tucker death confirm0002" x="1771" y="796" width="540" height="305"/>
+	<SubTexture name="tucker death confirm0003" x="1771" y="796" width="540" height="305"/>
+	<SubTexture name="tucker death confirm0004" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0005" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0006" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0007" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0008" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0009" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0010" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0011" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0012" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0013" x="2316" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0014" x="2316" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0015" x="2861" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0016" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0017" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0018" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0019" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0020" x="2861" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0021" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0022" x="2861" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0023" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0024" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0025" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0026" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0027" x="2861" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0028" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0029" x="2861" y="796" width="540" height="252" frameX="0" frameY="-53" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0030" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0031" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0032" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death confirm0033" x="2861" y="796" width="540" height="252" frameX="0" frameY="-52" frameWidth="540" frameHeight="305"/>
+	<SubTexture name="tucker death loop0000" x="3406" y="796" width="541" height="305"/>
+	<SubTexture name="tucker death loop0001" x="3406" y="796" width="541" height="305"/>
+	<SubTexture name="tucker death loop0002" x="5" y="1198" width="540" height="305" frameX="-1" frameY="0" frameWidth="541" frameHeight="305"/>
+	<SubTexture name="tucker death loop0003" x="550" y="1198" width="541" height="305"/>
+	<SubTexture name="tucker death loop0004" x="1096" y="1198" width="541" height="304" frameX="0" frameY="-1" frameWidth="541" frameHeight="305"/>
+	<SubTexture name="tucker death loop0005" x="1096" y="1198" width="541" height="304" frameX="0" frameY="-1" frameWidth="541" frameHeight="305"/>
+	<SubTexture name="tucker death loop0006" x="1642" y="1198" width="541" height="305"/>
+	<SubTexture name="tucker death loop0007" x="1642" y="1198" width="541" height="305"/>
+	<SubTexture name="tucker death loop0008" x="2188" y="1198" width="541" height="305"/>
+	<SubTexture name="tucker death loop0009" x="2188" y="1198" width="541" height="305"/>
+	<SubTexture name="tucker death loop0010" x="1096" y="1198" width="541" height="304" frameX="0" frameY="-1" frameWidth="541" frameHeight="305"/>
+	<SubTexture name="tucker death loop0011" x="1096" y="1198" width="541" height="304" frameX="0" frameY="-1" frameWidth="541" frameHeight="305"/>
+	<SubTexture name="tucker death loop0012" x="1642" y="1198" width="541" height="305"/>
+	<SubTexture name="tucker fucking dies0000" x="2734" y="1198" width="449" height="409" frameX="-5" frameY="-1" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0001" x="2734" y="1198" width="449" height="409" frameX="-5" frameY="-1" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0002" x="3188" y="1198" width="518" height="409" frameX="0" frameY="0" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0003" x="3188" y="1198" width="518" height="409" frameX="0" frameY="0" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0004" x="5" y="1612" width="529" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0005" x="5" y="1612" width="529" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0006" x="539" y="1612" width="564" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0007" x="539" y="1612" width="564" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0008" x="1108" y="1612" width="607" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0009" x="1108" y="1612" width="607" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0010" x="1720" y="1612" width="616" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0011" x="1720" y="1612" width="616" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0012" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0013" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0014" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0015" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0016" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0017" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0018" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0019" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0020" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0021" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0022" x="2341" y="1612" width="615" height="375" frameX="-60" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0023" x="2961" y="1612" width="611" height="375" frameX="-64" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0024" x="2961" y="1612" width="611" height="375" frameX="-64" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0025" x="5" y="1992" width="596" height="375" frameX="-79" frameY="-34" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0026" x="606" y="1992" width="563" height="167" frameX="-112" frameY="-255" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0027" x="606" y="1992" width="563" height="167" frameX="-112" frameY="-255" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0028" x="1174" y="1992" width="581" height="177" frameX="-94" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0029" x="1174" y="1992" width="581" height="177" frameX="-94" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0030" x="1760" y="1992" width="589" height="174" frameX="-86" frameY="-248" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0031" x="1760" y="1992" width="589" height="174" frameX="-86" frameY="-248" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0032" x="2354" y="1992" width="541" height="177" frameX="-134" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0033" x="2354" y="1992" width="541" height="177" frameX="-134" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0034" x="2354" y="1992" width="541" height="177" frameX="-134" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0035" x="2354" y="1992" width="541" height="177" frameX="-134" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0036" x="2354" y="1992" width="541" height="177" frameX="-134" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0037" x="2354" y="1992" width="541" height="177" frameX="-134" frameY="-245" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0038" x="2900" y="1992" width="541" height="205" frameX="-134" frameY="-217" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0039" x="2900" y="1992" width="541" height="205" frameX="-134" frameY="-217" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0040" x="3446" y="1992" width="541" height="212" frameX="-134" frameY="-210" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0041" x="3446" y="1992" width="541" height="212" frameX="-134" frameY="-210" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0042" x="5" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0043" x="5" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0044" x="551" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0045" x="551" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0046" x="1097" y="2372" width="541" height="232" frameX="-134" frameY="-190" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0047" x="1097" y="2372" width="541" height="232" frameX="-134" frameY="-190" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0048" x="5" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0049" x="5" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0050" x="551" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0051" x="551" y="2372" width="541" height="233" frameX="-134" frameY="-189" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0052" x="1097" y="2372" width="541" height="232" frameX="-134" frameY="-190" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0053" x="1097" y="2372" width="541" height="232" frameX="-134" frameY="-190" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0054" x="1643" y="2372" width="541" height="248" frameX="-134" frameY="-174" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0055" x="1643" y="2372" width="541" height="248" frameX="-134" frameY="-174" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0056" x="2189" y="2372" width="541" height="269" frameX="-134" frameY="-153" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0057" x="2189" y="2372" width="541" height="269" frameX="-134" frameY="-153" frameWidth="676" frameHeight="422"/>
+	<SubTexture name="tucker fucking dies0058" x="2735" y="2372" width="541" height="305" frameX="-134" frameY="-117" frameWidth="676" frameHeight="422"/>
+</TextureAtlas>

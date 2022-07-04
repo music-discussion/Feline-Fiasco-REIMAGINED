@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kadysfriends.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Apple0000" x="5" y="5" width="259" height="485" frameX="0" frameY="-10" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Apple0001" x="5" y="5" width="259" height="485" frameX="0" frameY="-10" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Apple0002" x="269" y="5" width="250" height="494" frameX="-3" frameY="-1" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Apple0003" x="269" y="5" width="250" height="494" frameX="-3" frameY="-1" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Apple0004" x="524" y="5" width="249" height="495" frameX="-4" frameY="0" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Blow Apple0000" x="778" y="5" width="269" height="495" frameX="0" frameY="-18" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0001" x="1052" y="5" width="271" height="495" frameX="0" frameY="-18" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0002" x="1328" y="5" width="252" height="510" frameX="-3" frameY="-3" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0003" x="1585" y="5" width="257" height="512" frameX="-3" frameY="-1" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0004" x="5" y="522" width="254" height="506" frameX="-4" frameY="-7" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0005" x="264" y="522" width="256" height="506" frameX="-4" frameY="-7" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0006" x="525" y="522" width="250" height="512" frameX="-4" frameY="-1" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Apple0007" x="780" y="522" width="254" height="513" frameX="-4" frameY="0" frameWidth="271" frameHeight="513"/>
+	<SubTexture name="Idle Blow Jace0000" x="1039" y="522" width="306" height="612" frameX="-17" frameY="-8" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0001" x="1350" y="522" width="309" height="614" frameX="-14" frameY="-6" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0002" x="1664" y="522" width="305" height="619" frameX="-5" frameY="-1" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0003" x="5" y="1146" width="312" height="617" frameX="-1" frameY="-3" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0004" x="322" y="1146" width="303" height="619" frameX="-10" frameY="-1" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0005" x="630" y="1146" width="308" height="620" frameX="-5" frameY="0" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0006" x="943" y="1146" width="305" height="620" frameX="-4" frameY="0" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Jace0007" x="1253" y="1146" width="312" height="617" frameX="0" frameY="-3" frameWidth="323" frameHeight="620"/>
+	<SubTexture name="Idle Blow Tyler0000" x="1570" y="1146" width="311" height="562" frameX="0" frameY="-20" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0001" x="5" y="1771" width="307" height="566" frameX="0" frameY="-16" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0002" x="317" y="1771" width="305" height="578" frameX="-2" frameY="-4" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0003" x="627" y="1771" width="300" height="579" frameX="-2" frameY="-3" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0004" x="932" y="1771" width="303" height="578" frameX="-2" frameY="-4" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0005" x="1240" y="1771" width="299" height="581" frameX="-2" frameY="-1" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0006" x="1544" y="1771" width="303" height="580" frameX="-2" frameY="-2" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Blow Tyler0007" x="5" y="2357" width="298" height="582" frameX="-2" frameY="0" frameWidth="311" frameHeight="582"/>
+	<SubTexture name="Idle Jace0000" x="308" y="2357" width="298" height="609" frameX="-7" frameY="-8" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Jace0001" x="308" y="2357" width="298" height="609" frameX="-7" frameY="-8" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Jace0002" x="611" y="2357" width="297" height="616" frameX="0" frameY="-1" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Jace0003" x="611" y="2357" width="297" height="616" frameX="0" frameY="-1" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Jace0004" x="913" y="2357" width="296" height="617" frameX="0" frameY="0" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Tyler0000" x="1214" y="2357" width="316" height="568" frameX="-1" frameY="-11" frameWidth="317" frameHeight="579"/>
+	<SubTexture name="Idle Tyler0001" x="1214" y="2357" width="316" height="568" frameX="-1" frameY="-11" frameWidth="317" frameHeight="579"/>
+	<SubTexture name="Idle Tyler0002" x="1535" y="2357" width="312" height="578" frameX="-1" frameY="-1" frameWidth="317" frameHeight="579"/>
+	<SubTexture name="Idle Tyler0003" x="1535" y="2357" width="312" height="578" frameX="-1" frameY="-1" frameWidth="317" frameHeight="579"/>
+	<SubTexture name="Idle Tyler0004" x="5" y="2979" width="311" height="579" frameX="0" frameY="0" frameWidth="317" frameHeight="579"/>
+	<SubTexture name="Idle Worried Apple0000" x="321" y="2979" width="259" height="485" frameX="0" frameY="-10" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Worried Apple0001" x="321" y="2979" width="259" height="485" frameX="0" frameY="-10" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Worried Apple0002" x="585" y="2979" width="250" height="494" frameX="-3" frameY="-1" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Worried Apple0003" x="585" y="2979" width="250" height="494" frameX="-3" frameY="-1" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Worried Apple0004" x="840" y="2979" width="249" height="495" frameX="-4" frameY="0" frameWidth="259" frameHeight="495"/>
+	<SubTexture name="Idle Worried Jace0000" x="1094" y="2979" width="298" height="609" frameX="-7" frameY="-8" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Worried Jace0001" x="1094" y="2979" width="298" height="609" frameX="-7" frameY="-8" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Worried Jace0002" x="1397" y="2979" width="297" height="616" frameX="0" frameY="-1" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Worried Jace0003" x="1397" y="2979" width="297" height="616" frameX="0" frameY="-1" frameWidth="305" frameHeight="617"/>
+	<SubTexture name="Idle Worried Jace0004" x="1699" y="2979" width="296" height="617" frameX="0" frameY="0" frameWidth="305" frameHeight="617"/>
+</TextureAtlas>

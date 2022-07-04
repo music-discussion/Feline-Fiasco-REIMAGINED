@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kady.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kady hey0000" x="5" y="5" width="378" height="598" frameX="0" frameY="0" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0001" x="5" y="5" width="378" height="598" frameX="0" frameY="0" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0002" x="388" y="5" width="395" height="592" frameX="0" frameY="-6" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0003" x="388" y="5" width="395" height="592" frameX="0" frameY="-6" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0004" x="788" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0005" x="788" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0006" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0007" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0008" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0009" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0010" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0011" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0012" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady hey0013" x="1183" y="5" width="390" height="595" frameX="0" frameY="-3" frameWidth="395" frameHeight="598"/>
+	<SubTexture name="kady idle0000" x="1578" y="5" width="307" height="592" frameX="0" frameY="-14" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0001" x="1578" y="5" width="307" height="592" frameX="0" frameY="-14" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0002" x="5" y="608" width="308" height="596" frameX="-6" frameY="-10" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0003" x="5" y="608" width="308" height="596" frameX="-6" frameY="-10" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0004" x="318" y="608" width="300" height="601" frameX="-10" frameY="-5" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0005" x="318" y="608" width="300" height="601" frameX="-10" frameY="-5" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0006" x="623" y="608" width="299" height="605" frameX="-10" frameY="-1" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0007" x="623" y="608" width="299" height="605" frameX="-10" frameY="-1" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0008" x="927" y="608" width="297" height="606" frameX="-10" frameY="0" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0009" x="927" y="608" width="297" height="606" frameX="-10" frameY="0" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0010" x="927" y="608" width="297" height="606" frameX="-10" frameY="0" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0011" x="927" y="608" width="297" height="606" frameX="-10" frameY="0" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0012" x="927" y="608" width="297" height="606" frameX="-10" frameY="0" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady idle0013" x="927" y="608" width="297" height="606" frameX="-10" frameY="0" frameWidth="314" frameHeight="606"/>
+	<SubTexture name="kady pose down0000" x="1229" y="608" width="338" height="544" frameX="0" frameY="-16" frameWidth="339" frameHeight="560"/>
+	<SubTexture name="kady pose down0001" x="1229" y="608" width="338" height="544" frameX="0" frameY="-16" frameWidth="339" frameHeight="560"/>
+	<SubTexture name="kady pose down0002" x="1572" y="608" width="331" height="560" frameX="-8" frameY="0" frameWidth="339" frameHeight="560"/>
+	<SubTexture name="kady pose down0003" x="1572" y="608" width="331" height="560" frameX="-8" frameY="0" frameWidth="339" frameHeight="560"/>
+	<SubTexture name="kady pose down0004" x="1572" y="608" width="331" height="560" frameX="-8" frameY="0" frameWidth="339" frameHeight="560"/>
+	<SubTexture name="kady pose down0005" x="1572" y="608" width="331" height="560" frameX="-8" frameY="0" frameWidth="339" frameHeight="560"/>
+	<SubTexture name="kady pose left0000" x="5" y="1219" width="341" height="598" frameX="0" frameY="0" frameWidth="352" frameHeight="598"/>
+	<SubTexture name="kady pose left0001" x="5" y="1219" width="341" height="598" frameX="0" frameY="0" frameWidth="352" frameHeight="598"/>
+	<SubTexture name="kady pose left0002" x="351" y="1219" width="341" height="598" frameX="-11" frameY="0" frameWidth="352" frameHeight="598"/>
+	<SubTexture name="kady pose left0003" x="697" y="1219" width="341" height="598" frameX="-11" frameY="0" frameWidth="352" frameHeight="598"/>
+	<SubTexture name="kady pose left0004" x="697" y="1219" width="341" height="598" frameX="-11" frameY="0" frameWidth="352" frameHeight="598"/>
+	<SubTexture name="kady pose left0005" x="697" y="1219" width="341" height="598" frameX="-11" frameY="0" frameWidth="352" frameHeight="598"/>
+	<SubTexture name="kady pose right0000" x="1043" y="1219" width="355" height="592" frameX="-8" frameY="-1" frameWidth="363" frameHeight="593"/>
+	<SubTexture name="kady pose right0001" x="1043" y="1219" width="355" height="592" frameX="-8" frameY="-1" frameWidth="363" frameHeight="593"/>
+	<SubTexture name="kady pose right0002" x="1403" y="1219" width="353" height="593" frameX="0" frameY="0" frameWidth="363" frameHeight="593"/>
+	<SubTexture name="kady pose right0003" x="1403" y="1219" width="353" height="593" frameX="0" frameY="0" frameWidth="363" frameHeight="593"/>
+	<SubTexture name="kady pose right0004" x="5" y="1822" width="353" height="593" frameX="0" frameY="0" frameWidth="363" frameHeight="593"/>
+	<SubTexture name="kady pose right0005" x="5" y="1822" width="353" height="593" frameX="0" frameY="0" frameWidth="363" frameHeight="593"/>
+	<SubTexture name="kady pose up0000" x="363" y="1822" width="324" height="652" frameX="-16" frameY="0" frameWidth="340" frameHeight="654"/>
+	<SubTexture name="kady pose up0001" x="363" y="1822" width="324" height="652" frameX="-16" frameY="0" frameWidth="340" frameHeight="654"/>
+	<SubTexture name="kady pose up0002" x="692" y="1822" width="331" height="629" frameX="0" frameY="-25" frameWidth="340" frameHeight="654"/>
+	<SubTexture name="kady pose up0003" x="692" y="1822" width="331" height="629" frameX="0" frameY="-25" frameWidth="340" frameHeight="654"/>
+	<SubTexture name="kady pose up0004" x="692" y="1822" width="331" height="629" frameX="0" frameY="-25" frameWidth="340" frameHeight="654"/>
+	<SubTexture name="kady pose up0005" x="692" y="1822" width="331" height="629" frameX="0" frameY="-25" frameWidth="340" frameHeight="654"/>
+</TextureAtlas>

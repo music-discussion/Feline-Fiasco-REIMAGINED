@@ -1,0 +1,11 @@
+{
+    "name": "tyler",
+    "expressions": {
+        "normal": "tyler-normal",
+        "open": "tyler-open",
+        "concern": "tyler-concern"
+    },
+    "position": "left",
+
+    "sounds": ["TYLER_1", "TYLER_2", "TYLER_3", "TYLER_4"]
+}

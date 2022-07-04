@@ -1,0 +1,9 @@
+{
+    "name": "tucker",
+    "expressions": {
+        "normal": "tucker0"
+    },
+    "position": "right",
+
+    "sounds": ["TUCKER_1", "TUCKER_2", "TUCKER_3", "TUCKER_4"]
+}

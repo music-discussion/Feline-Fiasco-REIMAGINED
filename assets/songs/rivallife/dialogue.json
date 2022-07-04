@@ -1,0 +1,24 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+		"portrait": "tyler-tb", 
+		"expression": "normal",
+		"text": "boy..."
+        },
+        {
+		"expression": "normal",
+		"text": "my brother in christ..."
+        },
+        {
+		"expression": "normal",	
+		"text": "...your shoes are raggidy and your\nhair is wack, you killed my vibe man!"
+        },
+        {
+		"portrait": "tucker",
+		"expression": "normal",
+		"text": "fuck you, let's rap!"
+        }
+    ]
+}
