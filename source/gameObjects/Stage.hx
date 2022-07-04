@@ -785,9 +785,6 @@ class Stage extends FlxTypedGroup<FlxBasic>
 					//trace('Light Value: ' + lightvalue + ', Last Light: ' + prevlight);
 						
 					cityLights.animation.play('light' + lightvalue);
-					cityLights.alpha = 1;
-					
-					FlxTween.tween(cityLights, {alpha: 0.2}, 1.7);
 				}
 				
 			case 'outside-day':

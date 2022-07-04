@@ -283,7 +283,7 @@ class MainMenuState extends MusicBeatState
 		
 		#if debug
 		if (FlxG.keys.justPressed.FIVE)
-			Main.switchState(this, new OffsetState('gf-kady', false));
+			Main.switchState(this, new OffsetState('gf-kadyhair', false));
 		#end
 		
 		// colorTest += 0.125;
