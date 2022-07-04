@@ -1,4 +1,4 @@
-# Friday Night Funkin' Feline Fiasco!
+# [Friday Night Funkin' Feline Fiasco!](https://github.com/TuckerTheTucker/fnf-kady-source)
 A brand new mod for Friday Night Funkin'!
 ----------------------------------------------
 
