@@ -797,6 +797,7 @@ class PlayState extends MusicBeatState
 		#if debug
 		if(FlxG.keys.pressed.SHIFT && FlxG.keys.pressed.F1)
 			endSong();
+		#end
 	}
 
 	function noteCalls()
